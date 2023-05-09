@@ -9,3 +9,5 @@
 ## 09-05-2023
 
 - https://developer.confluent.io/learn-kafka/spring/apache-kafka-intro/ Spring Frameworks and Kafka®
+- https://www.conduktor.io/blog/building-real-time-applications-with-kafka-streams/ Building Real Time Applications with Kafka Streams
+- https://www.conduktor.io/blog/comparing-apache-kafka-apache-pulsar/ Comparing Apache Kafka and Apache Pulsar
