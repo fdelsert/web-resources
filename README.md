@@ -3,6 +3,7 @@
 ## 10-05-2023
 
 - https://www.baeldung.com/spring-boot-custom-auto-configuration Create a Custom Auto-Configuration with Spring Boot
+- https://scalajobs.com/blog/functional-programming-anti-patterns-in-scala/ Functional Programming anti-patterns in Scala
 
 ## 09-05-2023
 
