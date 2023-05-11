@@ -1,5 +1,9 @@
 # web-resources
 
+## 11-05-2023
+
+- https://reflectoring.io/spring-boot-testconfiguration/ Testing with Spring Boot’s @TestConfiguration Annotation
+
 ## 10-05-2023
 
 - https://www.baeldung.com/spring-boot-custom-auto-configuration Create a Custom Auto-Configuration with Spring Boot
