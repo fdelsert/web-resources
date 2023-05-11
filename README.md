@@ -3,6 +3,7 @@
 ## 11-05-2023
 
 - https://reflectoring.io/spring-boot-testconfiguration/ Testing with Spring Boot’s @TestConfiguration Annotation
+- https://www.baeldung.com/java-zoneddatetime-offsetdatetime Differences Between ZonedDateTime and OffsetDateTime
 
 ## 10-05-2023
 
