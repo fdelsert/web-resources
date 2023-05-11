@@ -4,6 +4,8 @@
 
 - https://reflectoring.io/spring-boot-testconfiguration/ Testing with Spring Boot’s @TestConfiguration Annotation
 - https://www.baeldung.com/java-zoneddatetime-offsetdatetime Differences Between ZonedDateTime and OffsetDateTime
+- https://www.baeldung.com/configuration-properties-in-spring-boot Guide to @ConfigurationProperties in Spring Boot
+- https://www.baeldung.com/spring-depends-on Controlling Bean Creation Order with @DependsOn Annotation
 
 ## 10-05-2023
 
