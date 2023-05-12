@@ -1,5 +1,9 @@
 # web-resources
 
+## 12-05-2023
+
+- https://youtu.be/FO2ptQNQKhM Apache Kafka: Keeping the order of events when retrying due to failure
+
 ## 11-05-2023
 
 - https://reflectoring.io/spring-boot-testconfiguration/ Testing with Spring Boot’s @TestConfiguration Annotation
