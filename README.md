@@ -2,7 +2,7 @@
 
 ## 12-05-2023
 
-- https://youtu.be/FO2ptQNQKhM Apache Kafka: Keeping the order of events when retrying due to failure
+- https://danieltammadge.com/2022/07/kafka-keeping-event-order-during-retires/ Apache Kafka: Keeping the order of events when retrying due to failure
 
 ## 11-05-2023
 
