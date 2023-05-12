@@ -2,6 +2,7 @@
 
 ## 12-05-2023
 
+- https://www.baeldung.com/spring-boot-customize-jackson-objectmapper Spring Boot: Customize the Jackson ObjectMapper
 - https://danieltammadge.com/2022/07/kafka-keeping-event-order-during-retires/ Apache Kafka: Keeping the order of events when retrying due to failure
 
 ## 11-05-2023
