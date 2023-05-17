@@ -1,5 +1,9 @@
 # web-resources
 
+## 17-05-2023
+
+- https://www.baeldung.com/spring-boot-kafka-streams Kafka Streams With Spring Boot
+
 ## 12-05-2023
 
 - https://www.confluent.io/blog/error-handling-patterns-in-kafka/ Error Handling Patterns for Apache Kafka Applications
