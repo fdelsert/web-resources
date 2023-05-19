@@ -2,6 +2,7 @@
 
 ## 19-05-2023
 
+- https://www.youtube.com/watch?v=bxK4GscuVgs Java 17 🤝 AWS Lambda: Creating Serverless Functions in Java & Spring with Java 17
 - https://softwaremill.com/do-you-still-need-testcontainers-with-spring-boot-3-1/ Do you still need testcontainers with Spring Boot 3.1?
 - https://www.youtube.com/playlist?list=PLa7VYi0yPIH0uIC2F0M1_FsVUsx8j3ekm Kafka Connect Tutorials | Kafka Connect 101 (2023)
 
