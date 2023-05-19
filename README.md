@@ -1,5 +1,9 @@
 # web-resources
 
+## 19-05-2023
+
+- https://www.youtube.com/playlist?list=PLa7VYi0yPIH0uIC2F0M1_FsVUsx8j3ekm Kafka Connect Tutorials | Kafka Connect 101 (2023)
+
 ## 17-05-2023
 
 - https://www.baeldung.com/spring-boot-kafka-streams Kafka Streams With Spring Boot
