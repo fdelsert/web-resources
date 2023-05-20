@@ -2,6 +2,7 @@
 
 ## 19-05-2023
 
+- https://youtu.be/BFcoFu-udQA Event-Driven Architectures for Spring Developers
 - https://blog.softwaremill.com/does-kafka-really-guarantee-the-order-of-messages-3ca849fd19d2 Does Kafka really guarantee the order of messages?
 - https://www.youtube.com/watch?v=bxK4GscuVgs Java 17 🤝 AWS Lambda: Creating Serverless Functions in Java & Spring with Java 17
 - https://softwaremill.com/do-you-still-need-testcontainers-with-spring-boot-3-1/ Do you still need testcontainers with Spring Boot 3.1?
