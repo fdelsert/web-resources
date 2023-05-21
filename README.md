@@ -1,5 +1,9 @@
 # web-resources
 
+## 21-05-2023
+
+- https://developer.confluent.io/tutorials/split-a-stream-of-events-into-substreams/kstreams.html How to split a stream of events into substreams
+
 ## 19-05-2023
 
 - https://youtu.be/BFcoFu-udQA Event-Driven Architectures for Spring Developers
