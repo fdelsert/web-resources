@@ -2,6 +2,7 @@
 
 ## 23-005-2023
 
+- https://mostlynerdless.de/blog/2023/03/27/writing-a-profiler-in-240-lines-of-pure-java/ Writing a Profiler in 240 Lines of Pure Java
 - https://foojay.io/today/its-java-20-release-day-heres-whats-new/ It’s Java 20 Release Day! Here’s What’s New
 
 ## 22-05-2023
