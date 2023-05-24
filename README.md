@@ -2,6 +2,7 @@
 
 ## 24-05-2023
 
+- https://www.estuary.dev/confluent-kafka-vs-apache-kafka/ Confluent Kafka vs Apache Kafka vs Estuary: 2023 Comparison
 - https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/autowired-qualifiers.html Fine-tuning Annotation-based Autowiring with Qualifiers
 
 ## 23-05-2023
