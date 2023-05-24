@@ -1,6 +1,10 @@
 # web-resources
 
-## 23-005-2023
+## 24-05-2023
+
+- https://docs.spring.io/spring-framework/reference/core/beans/annotation-config/autowired-qualifiers.html Fine-tuning Annotation-based Autowiring with Qualifiers
+
+## 23-05-2023
 
 - https://www.conduktor.io/kafka/kafka-producer-batching/ Kafka Producer Batching
 - https://mostlynerdless.de/blog/2023/03/27/writing-a-profiler-in-240-lines-of-pure-java/ Writing a Profiler in 240 Lines of Pure Java
