@@ -1,5 +1,9 @@
 # web-resources
 
+## 25-05-2023
+
+- https://kristofsl.medium.com/from-spring-boot-to-zio-d70f0f8d28e1 From spring boot to ZIO
+
 ## 24-05-2023
 
 - https://www.estuary.dev/confluent-kafka-vs-apache-kafka/ Confluent Kafka vs Apache Kafka vs Estuary: 2023 Comparison
