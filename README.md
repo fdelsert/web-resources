@@ -1,5 +1,9 @@
 # web-resources
 
+## 30-05-2023
+
+- https://reflectoring.io/spring-boot-starter/ Quick Guide to Building a Spring Boot Starter
+
 ## 25-05-2023
 
 - https://kristofsl.medium.com/from-spring-boot-to-zio-d70f0f8d28e1 From spring boot to ZIO
