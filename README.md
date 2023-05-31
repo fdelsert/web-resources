@@ -2,6 +2,7 @@
 
 ## 31-05-2023
 
+- https://www.confluent.io/blog/transactions-apache-kafka/ Transactions in Apache Kafka
 - https://youtu.be/twgbAL_EaQw Kafka - Exactly once semantics with Matthias J. Sax
 
 ## 30-05-2023
