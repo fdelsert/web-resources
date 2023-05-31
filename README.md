@@ -1,5 +1,9 @@
 # web-resources
 
+## 31-05-2023
+
+- https://youtu.be/twgbAL_EaQw Kafka - Exactly once semantics with Matthias J. Sax
+
 ## 30-05-2023
 
 - https://kerkour.com/rust-functional-programming Functional Programming in Rust
