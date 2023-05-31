@@ -2,6 +2,7 @@
 
 ## 30-05-2023
 
+- https://kerkour.com/rust-functional-programming Functional Programming in Rust
 - https://www.sderosiaux.com/articles/2020/01/06/learnings-from-using-kafka-connect-debezium-postgresql/ Learnings from using Kafka Connect - Debezium - PostgreSQL
 - https://reflectoring.io/spring-boot-starter/ Quick Guide to Building a Spring Boot Starter
 
