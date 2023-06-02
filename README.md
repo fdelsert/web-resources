@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 02-06-2023
+
+- https://youtu.be/ygL_xcavzQ4 Rust Tutorial Full Course
+
 ## 31-05-2023
 
 - https://www.confluent.io/blog/transactions-apache-kafka/ Transactions in Apache Kafka
