@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 07-06-2023
+
+- https://scalajobs.com/blog/accumulate-errors-in-scala-with-typelevel-cats/ Accumulate errors in Scala with typelevel cats
+
 ## 02-06-2023
 
 - https://youtu.be/ygL_xcavzQ4 Rust Tutorial Full Course
