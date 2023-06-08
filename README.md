@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 08-06-2023
+
+- https://youtu.be/_ccDqRTx-JU Improve your Rust APIs with the type state pattern
+
 ## 07-06-2023
 
 - https://scalajobs.com/blog/accumulate-errors-in-scala-with-typelevel-cats/ Accumulate errors in Scala with typelevel cats
