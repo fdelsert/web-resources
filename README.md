@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 09-06-2023
+
+- https://youtu.be/7evNI7Gd180 AI Discovers Faster Algorithms
+
 ## 08-06-2023
 
 - https://youtu.be/_ccDqRTx-JU Improve your Rust APIs with the type state pattern
