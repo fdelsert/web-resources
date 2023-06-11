@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 11-06-2023
+
+- https://www.ocf.berkeley.edu/~jchu/publicportal/sudoku/sudoku.paper.html A Sudoku Solver in Java implementing Knuth’s Dancing Links Algorithm
+
 ## 09-06-2023
 
 - https://youtu.be/7evNI7Gd180 AI Discovers Faster Algorithms
