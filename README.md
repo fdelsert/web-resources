@@ -2,6 +2,7 @@
 
 ## 11-06-2023
 
+- https://rust-unofficial.github.io/too-many-lists/ Learn Rust With Entirely Too Many Linked Lists
 - https://www.ocf.berkeley.edu/~jchu/publicportal/sudoku/sudoku.paper.html A Sudoku Solver in Java implementing Knuth’s Dancing Links Algorithm
 
 ## 09-06-2023
