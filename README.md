@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 14-06-2023
+
+- https://medium.com/@ilegra/the-dark-side-of-rust-language-4fe2b9c2faf3 The dark side of Rust Language
+- https://qntm.org/clean It's probably time to stop recommending Clean Code
+
 ## 11-06-2023
 
 - https://rust-unofficial.github.io/too-many-lists/ Learn Rust With Entirely Too Many Linked Lists
