@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 15-06-2023
+
+- https://docs.confluent.io/platform/current/schema-registry/fundamentals/schema-evolution.html Schema Evolution and Compatibility
+
 ## 14-06-2023
 
 - https://medium.com/@ilegra/the-dark-side-of-rust-language-4fe2b9c2faf3 The dark side of Rust Language
