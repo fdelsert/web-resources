@@ -2,6 +2,7 @@
 
 ## 15-06-2023
 
+- https://ferrous-systems.com/blog/dlx-in-rust/ Dancing Links In Rust
 - https://docs.confluent.io/platform/current/schema-registry/fundamentals/schema-evolution.html Schema Evolution and Compatibility
 
 ## 14-06-2023
