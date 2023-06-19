@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 19-06-2023
+
+- https://alexn.org/blog/2023/06/19/java-volatiles/ Java Volatiles
+
 ## 15-06-2023
 
 - https://ferrous-systems.com/blog/dlx-in-rust/ Dancing Links In Rust
