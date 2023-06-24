@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 23-06-2023
+
+- https://www.baeldung.com/spring-type-conversions Guide to Spring Type Conversions
+- https://projectreactor.io/docs/kafka/release/reference/ Reactor Kafka Reference Guide
+
 ## 19-06-2023
 
 - https://alexn.org/blog/2023/06/19/java-volatiles/ Java Volatiles
