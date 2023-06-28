@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 28-06-2023
+
+- https://saurabhs.org/advanced-macos-commands Advanced macOS Command-Line Tools
+- https://opensource.googleblog.com/2023/06/rust-fact-vs-fiction-5-insights-from-googles-rust-journey-2022.html Rust fact vs. fiction: 5 Insights from Google's Rust journey in 2022
+
 ## 23-06-2023
 
 - https://www.baeldung.com/spring-type-conversions Guide to Spring Type Conversions
