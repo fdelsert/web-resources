@@ -1,5 +1,13 @@
 # Articles and videos to share
 
+## 05-07-2023
+
+- https://www.youtube.com/watch?v=fbBZM7cReBc https://www.youtube.com/watch?v=fbBZM7cReBc
+
+## 04-07-2023
+
+- https://youtu.be/H3Bizwx_L1o Why I keep choosing ZIO!
+
 ## 28-06-2023
 
 - https://saurabhs.org/advanced-macos-commands Advanced macOS Command-Line Tools
