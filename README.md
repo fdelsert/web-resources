@@ -2,7 +2,7 @@
 
 ## 05-07-2023
 
-- https://www.youtube.com/watch?v=fbBZM7cReBc https://www.youtube.com/watch?v=fbBZM7cReBc
+- https://www.youtube.com/watch?v=fbBZM7cReBc A tour of the Axum web framework for Rust (while explaining a few error messages)
 
 ## 04-07-2023
 
