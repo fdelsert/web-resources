@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 11-07-2023
+
+- https://youtu.be/TVdFAftHzPE Kotlin Context Receivers - How to Use, Why, and Best Practice
+
 ## 05-07-2023
 
 - https://www.youtube.com/watch?v=fbBZM7cReBc A tour of the Axum web framework for Rust (while explaining a few error messages)
