@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 12-07-2023
+
+- https://www.baeldung.com/java-picocli-create-command-line-program Create a Java Command Line Program with Picocli
+
 ## 11-07-2023
 
 - https://youtu.be/TVdFAftHzPE Kotlin Context Receivers - How to Use, Why, and Best Practice
