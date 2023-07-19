@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 19-07-2023
+
+- https://szymonsawicki.net/unit-testing-in-spring-webflux/ Unit testing in Spring Webflux using StepVerifier
+and Mockito
+
 ## 12-07-2023
 
 - https://www.baeldung.com/java-picocli-create-command-line-program Create a Java Command Line Program with Picocli
