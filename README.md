@@ -2,6 +2,7 @@
 
 ## 25-07-2023
 
+- https://www.baeldung.com/maven-env-variables Refer to Environment Variables in pom.xml
 - https://blog.frankel.ch/github-actions-maven-releases/ GitHub Actions and Maven releases
 
 ## 19-07-2023
