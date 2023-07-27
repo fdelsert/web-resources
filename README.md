@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 27-07-2023
+
+- https://youtu.be/5XfgT9A9PHw GitHub Actions - Getting Started With Environments
+
 ## 25-07-2023
 
 - https://www.baeldung.com/maven-env-variables Refer to Environment Variables in pom.xml
