@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 11-08-2023
+
+- https://softwaremill.com/cats-effect-vs-zio/ Cats Effect vs ZIO
+
 ## 04-08-2023
 
 - https://theboreddev.com/use-multiple-ssh-keys-different-git-accounts/ How to Use Multiple SSH Keys For Different Git Accounts
