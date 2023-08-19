@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 19-08-2023
+
+- https://www.sfeir.dev/front/htmx-pour-un-developpement-web-simplifie-vous-avez-peut-etre-la-chance-davoir-connu-lage-des-pages-web-statiques-sans-interactions-puis-lavenement-de-flash-et-jquery-pour-finir-aujourdh/ HTMX, pour un développement web simplifié
+
 ## 11-08-2023
 
 - https://softwaremill.com/cats-effect-vs-zio/ Cats Effect vs ZIO
