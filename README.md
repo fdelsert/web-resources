@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 20-08-2023
+
+- https://blog.rockthejvm.com/free-monad/ Free Monad in Scala
+
 ## 19-08-2023
 
 - https://www.sfeir.dev/front/htmx-pour-un-developpement-web-simplifie-vous-avez-peut-etre-la-chance-davoir-connu-lage-des-pages-web-statiques-sans-interactions-puis-lavenement-de-flash-et-jquery-pour-finir-aujourdh/ HTMX, pour un développement web simplifié
