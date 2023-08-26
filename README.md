@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 26-08-2023
+
+- https://youtu.be/co-Vg7M4yKw Do your Values align with FP Values?
+
 ## 20-08-2023
 
 - https://blog.rockthejvm.com/free-monad/ Free Monad in Scala
