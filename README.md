@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 07-09-2023
+
+- https://softwaremill.com/structured-concurrency-and-scoped-values-in-java/ Structured concurrency and scoped values in Java
+
 ## 26-08-2023
 
 - https://youtu.be/co-Vg7M4yKw Do your Values align with FP Values?
