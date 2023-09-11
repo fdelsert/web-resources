@@ -2,6 +2,7 @@
 
 ## 11-09-2023
 
+- https://kubernetes.io/docs/concepts/workloads/pods/init-containers/ Init Containers
 - https://blog.stephane-robert.info/post/kubernetes-write-first-chart-helm/ Kubernetes - Ecrire son premier chart Helm
 
 ## 07-09-2023
