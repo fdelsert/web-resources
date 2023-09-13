@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 13-09-2023
+
+- https://youtu.be/0swOh5C3OVM?feature=shared Kubernetes Volumes explained | Persistent Volume, Persistent Volume Claim & Storage Class
+
 ## 11-09-2023
 
 - https://kubernetes.io/docs/concepts/workloads/pods/init-containers/ Init Containers
