@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 14-09-2023
+
+- https://youtu.be/cEPP33ScM3s?feature=shared Workload Identity in GKE to fetch data from Google Cloud Storage.
+
 ## 13-09-2023
 
 - https://youtu.be/0swOh5C3OVM?feature=shared Kubernetes Volumes explained | Persistent Volume, Persistent Volume Claim & Storage Class
