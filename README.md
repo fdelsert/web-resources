@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 16-09-2023
+
+- https://youtu.be/X48VuDVv0do?feature=shared Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]
+
 ## 14-09-2023
 
 - https://youtu.be/cEPP33ScM3s?feature=shared Workload Identity in GKE to fetch data from Google Cloud Storage.
