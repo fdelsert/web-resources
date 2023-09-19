@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 19-09-2023
+
+- https://www.lihaoyi.com/post/SoWhatsSoSpecialAboutTheMillScalaBuildTool.html So, What's So Special About The Mill Scala Build Tool?
+
 ## 16-09-2023
 
 - https://youtu.be/X48VuDVv0do?feature=shared Kubernetes Tutorial for Beginners [FULL COURSE in 4 Hours]
