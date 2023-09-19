@@ -2,6 +2,7 @@
 
 ## 19-09-2023
 
+- https://blog.rockthejvm.com/scala-as-a-junior-dev/ Scala as a Junior Developer
 - https://www.lihaoyi.com/post/SoWhatsSoSpecialAboutTheMillScalaBuildTool.html So, What's So Special About The Mill Scala Build Tool?
 
 ## 16-09-2023
