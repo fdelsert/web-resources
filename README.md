@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 29-09-2023
+
+- https://spring.io/blog/2023/09/20/hello-java-21 Hello, Java 21
+
 ## 19-09-2023
 
 - https://blog.rockthejvm.com/scala-as-a-junior-dev/ Scala as a Junior Developer
