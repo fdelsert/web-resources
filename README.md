@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 02-10-2023
+
+- https://softwaremill.com/java-21-switch-the-power-on/ Java 21: switch the power on
+
 ## 29-09-2023
 
 - https://spring.io/blog/2023/09/20/hello-java-21 Hello, Java 21
