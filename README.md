@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 04-10-2023
+
+- https://youtu.be/jJ2g0DneISA?feature=shared Game of Loom 2: life and deadlock of a virtual thread By Mario Fusco
+- https://www.confluent.io/blog/enabling-exactly-once-kafka-streams/ Enabling Exactly-Once in Kafka Streams
+
 ## 02-10-2023
 
 - https://softwaremill.com/java-21-switch-the-power-on/ Java 21: switch the power on
