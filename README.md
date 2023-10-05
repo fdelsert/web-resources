@@ -1,8 +1,12 @@
 # Articles and videos to share
 
+## 05-10-2023
+
+- https://youtu.be/3lZkRxgmKt8 Things I wish I knew before I started with event sourcing By Michał Ostruszka
+
 ## 04-10-2023
 
-- https://youtu.be/jJ2g0DneISA?feature=shared Game of Loom 2: life and deadlock of a virtual thread By Mario Fusco
+- https://youtu.be/jJ2g0DneISA Game of Loom 2: life and deadlock of a virtual thread By Mario Fusco
 - https://www.confluent.io/blog/enabling-exactly-once-kafka-streams/ Enabling Exactly-Once in Kafka Streams
 
 ## 02-10-2023
