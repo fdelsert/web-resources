@@ -2,6 +2,7 @@
 
 ## 05-10-2023
 
+- https://youtu.be/8fMFa6OqlY8 Teaching old Streams new tricks By Viktor Klang
 - https://youtu.be/3lZkRxgmKt8 Things I wish I knew before I started with event sourcing By Michał Ostruszka
 
 ## 04-10-2023
