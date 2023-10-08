@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 08-10-2023
+
+- https://youtu.be/INlFDr5ujL8 Swift 5.9 Released
+
 ## 05-10-2023
 
 - https://youtu.be/8fMFa6OqlY8 Teaching old Streams new tricks By Viktor Klang
