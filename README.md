@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 09-10-2023
+
+- https://arnoldgalovics.com/kubernetes-liveness-probe-spring-boot/ Smart Healthchecks With Kubernetes And Spring Boot Actuator
+
 ## 08-10-2023
 
 - https://youtu.be/INlFDr5ujL8 Swift 5.9 Released
