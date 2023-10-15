@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 14-10-2023
+
+- https://youtu.be/mxEvAPQRwhw Kubernetes Health Checks with Readiness and Liveness Probes
+
 ## 09-10-2023
 
 - https://arnoldgalovics.com/kubernetes-liveness-probe-spring-boot/ Smart Healthchecks With Kubernetes And Spring Boot Actuator
