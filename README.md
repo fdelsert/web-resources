@@ -1,5 +1,13 @@
 # Articles and videos to share
 
+## 23-10-2023
+
+- https://www.graphile.org/postgraphile/ PostGraphile Instant GraphQL API
+
+## 21-10-2023
+
+- https://github.com/ByteByteGoHq/system-design-101 System Design 101
+
 ## 14-10-2023
 
 - https://youtu.be/mxEvAPQRwhw Kubernetes Health Checks with Readiness and Liveness Probes
