@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 26-10-2023
+
+- https://relay.dev/graphql/connections.htm GraphQL Cursor Connections Specification
+
 ## 23-10-2023
 
 - https://www.graphile.org/postgraphile/ PostGraphile Instant GraphQL API
