@@ -2,6 +2,7 @@
 
 ## 09-11-2023
 
+- https://youtu.be/fTRNm-1Q1EI From 🐛 to 🦋: Data Pipelines Evolution from Batch to Streaming
 - https://youtu.be/A5tmnWAYULs 10 tips for enabling data discovery and governance in your organization
 
 ## 26-10-2023
