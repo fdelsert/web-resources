@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 09-11-2023
+
+- https://youtu.be/A5tmnWAYULs 10 tips for enabling data discovery and governance in your organization
+
 ## 26-10-2023
 
 - https://relay.dev/graphql/connections.htm GraphQL Cursor Connections Specification
