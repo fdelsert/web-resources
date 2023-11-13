@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 13-11-2023
+
+- https://thorben-janssen.com/outbox-pattern-with-cdc-and-debezium/ Implementing the Outbox Pattern with CDC using Debezium
+
 ## 09-11-2023
 
 - https://youtu.be/fYN9-QdLtYg The Wonderful World of Apache Kafka
