@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 14-11-2023
+
+- https://inside.java/2023/11/06/sip087/ Record Patterns in Java 21 - Sip of Java
+
 ## 13-11-2023
 
 - https://thorben-janssen.com/outbox-pattern-with-cdc-and-debezium/ Implementing the Outbox Pattern with CDC using Debezium
