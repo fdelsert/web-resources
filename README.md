@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 28-11-2023
+
+- https://developer.confluent.io/courses/architecture/compaction/ Topic Compaction
+
 ## 14-11-2023
 
 - https://inside.java/2023/11/06/sip087/ Record Patterns in Java 21 - Sip of Java
