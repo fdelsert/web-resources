@@ -1,7 +1,8 @@
 # Articles and videos to share
 
-## 08-11_2023
+## 08-11-2023
 
+- https://www.responsive.dev/blog/guide-to-kafka-streams-state Don't Panic: The Definitive Guide to Kafka Streams State
 - https://www.responsive.dev/blog/kafka-streams-history-of-rebalancing Kafka Streams and Rebalancing through the Ages
 - https://aiven.io/blog/introducing-tiered-storage-for-aiven-for-apache-kafkaIntroducing Tiered Storage for Aiven for Apache Kafka®: Unlocking Improved Cost-Efficiency and Scalability
 - https://scalajobs.com/blog/for-comprehension-use-cases-in-scala/ For-Comprehension Use Cases in Scala
