@@ -1,6 +1,12 @@
 # Articles and videos to share
 
-## 08-11-2023
+## 19-12-2023
+
+- https://www.confluent.io/blog/unifying-stream-processing-and-interactive-queries-in-apache-kafka/ Unifying Stream Processing and Interactive Queries in Apache Kafka
+- https://www.confluent.io/blog/testing-kafka-streams/ Testing Kafka Streams – A Deep Dive
+- https://blog.jdriven.com/2019/12/kafka-streams-topologytestdriver-with-avro/ Kafka Streams TopologyTestDriver with Avro
+
+## 08-12-2023
 
 - https://www.responsive.dev/blog/guide-to-kafka-streams-state Don't Panic: The Definitive Guide to Kafka Streams State
 - https://www.responsive.dev/blog/kafka-streams-history-of-rebalancing Kafka Streams and Rebalancing through the Ages
