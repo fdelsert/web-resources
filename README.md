@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 28-12-2023
+
+- https://youtu.be/GA8NZVGPiNo What Can Scala Learn from Rust? by John A. De Goes
+- https://www.eversql.com/5-ways-to-implement-not-exists-in-postgresql/ 5 Ways to implement NOT EXISTS in PostgreSQL
+
 ## 19-12-2023
 
 - https://www.confluent.io/blog/unifying-stream-processing-and-interactive-queries-in-apache-kafka/ Unifying Stream Processing and Interactive Queries in Apache Kafka
