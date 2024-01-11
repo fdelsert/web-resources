@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 11-01-2024
+
+- https://youtu.be/ybfOhW4O0nQ Beware! Anti-patterns in Event-Driven Architecture
+
 ## 28-12-2023
 
 - https://youtu.be/GA8NZVGPiNo What Can Scala Learn from Rust? by John A. De Goes
