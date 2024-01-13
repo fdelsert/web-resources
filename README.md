@@ -1,5 +1,11 @@
 # Articles and videos to share
 
+## 13-01-2024
+
+- https://discord.com/blog/why-discord-is-switching-from-go-to-rust Pourquoi Discord passe de Go à Rust
+- https://blog.pierre-ricadat.com/a-beginners-guide-to-graphql-in-scala A Beginner's Guide to GraphQL in Scala
+
+
 ## 11-01-2024
 
 - https://youtu.be/ybfOhW4O0nQ Beware! Anti-patterns in Event-Driven Architecture
