@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 02-02-2024
+
+- https://blog.rockthejvm.com/full-stack-typelevel/ How to Write a Full-Stack Scala 3 Application with the Typelevel Stack
+
 ## 13-01-2024
 
 - https://discord.com/blog/why-discord-is-switching-from-go-to-rust Pourquoi Discord passe de Go à Rust
