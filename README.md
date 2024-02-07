@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 07-02-2024
+
+- https://jpa-buddy.com/blog/hopefully-the-final-article-about-equals-and-hashcode-for-jpa-entities-with-db-generated-ids/ (Hopefully) the final article about equals and hashCode for JPA entities with DB-generated IDs
+
 ## 02-02-2024
 
 - https://blog.rockthejvm.com/full-stack-typelevel/ How to Write a Full-Stack Scala 3 Application with the Typelevel Stack
