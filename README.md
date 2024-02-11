@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 11-02-2024
+
+- https://pkl-lang.org/blog/introducing-pkl.html Introducing Pkl, a programming language for configuration
+- https://youtu.be/Hx1SLFWFoAw Time Window Aggregations in Kafka Streams!
+
 ## 07-02-2024
 
 - https://jpa-buddy.com/blog/hopefully-the-final-article-about-equals-and-hashcode-for-jpa-entities-with-db-generated-ids/ (Hopefully) the final article about equals and hashCode for JPA entities with DB-generated IDs
