@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 23-02-2024
+
+- https://youtu.be/g1kI3WDjWvU  Reset Offsets on Kafka CLI Tutorial
+
 ## 14-02-2024
 
 - https://developer.apple.com/tutorials/swiftui-concepts/driving-changes-in-your-ui-with-state-and-bindings Separate properties and imperative code from the view
