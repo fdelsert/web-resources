@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 29-02-2024
+
+- https://fatbobman.com/en/posts/avoid_repeated_calculations_of_swiftui_views/ How to Avoid Repeating SwiftUI View Updates
+- https://youtu.be/PbkROQPTBao 5 Common Mistakes Spring Developers Make
+
 ## 23-02-2024
 
 - https://youtu.be/g1kI3WDjWvU  Reset Offsets on Kafka CLI Tutorial
