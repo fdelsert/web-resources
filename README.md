@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 11-03-2024
+
+- https://azamsharp.com/2023/01/24/grouping-events-swiftui-view-using-enums.md.html A Better Way to Handle Events for SwiftUI Views
+
 ## 29-02-2024
 
 - https://fatbobman.com/en/posts/avoid_repeated_calculations_of_swiftui_views/ How to Avoid Repeating SwiftUI View Updates
