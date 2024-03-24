@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 24-03-2024
+
+- https://holyswift.app/how-to-solve-observable-object-problem/ The Nested Observables Problem in SwiftUI
+
 ## 11-03-2024
 
 - https://azamsharp.com/2023/01/24/grouping-events-swiftui-view-using-enums.md.html A Better Way to Handle Events for SwiftUI Views
