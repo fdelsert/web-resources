@@ -1,5 +1,11 @@
 # Articles and videos to share
 
+## 18-04-2024
+
+- https://supabase.com/blog/supabase-swift Supabase Swift
+- https://youtu.be/Evc0vy7QqhI Debunking Kafka Top 5 Use Cases
+- https://aws.amazon.com/fr/what-is/data-mesh/ Qu'est-ce qu'un Data Mesh ?
+
 ## 24-03-2024
 
 - https://holyswift.app/how-to-solve-observable-object-problem/ The Nested Observables Problem in SwiftUI
