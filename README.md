@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 01-05-2024
+
+- https://david-peter.de/cube-composer/ cube composer
+- https://www.baeldung.com/java-streams-distinct-by DistinctBy in the Java Stream API
+
 ## 18-04-2024
 
 - https://supabase.com/blog/supabase-swift Supabase Swift
