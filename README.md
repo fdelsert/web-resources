@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 05-05-2024
+
+- https://youtu.be/JvTo-BVhHw0 Rendez vos applications Kafka plus robustes
+- https://www.inner-product.com/posts/direct-style-effects/ Direct-style Effects Explained
+
 ## 01-05-2024
 
 - https://david-peter.de/cube-composer/ cube composer
