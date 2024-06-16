@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 16-05-2024
+
+- https://www.lihaoyi.com/post/12yearsofthecomlihaoyiScalaPlatform.html 12 years of the com.lihaoyi Scala Platform
+- https://blog.pierre-ricadat.com/graphql-in-scala-role-based-access-control GraphQL in Scala: Role-Based Access Control
+
 ## 05-05-2024
 
 - https://youtu.be/JvTo-BVhHw0 Rendez vos applications Kafka plus robustes
