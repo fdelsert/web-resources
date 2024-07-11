@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 11-07-2024
+
+- https://axual.com/implementing-outbox-pattern-with-apache-kafka-and-spring-modulith/ Implementing Outbox Pattern with Apache Kafka and Spring Modulith
+- https://www.baeldung.com/spring-modulith-event-externalization#2-resubmitting-events Event Externalization with Spring Modulith
+
 ## 16-05-2024
 
 - https://www.lihaoyi.com/post/12yearsofthecomlihaoyiScalaPlatform.html 12 years of the com.lihaoyi Scala Platform
