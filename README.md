@@ -2,6 +2,7 @@
 
 ## 11-07-2024
 
+- https://www.wimdeblauwe.com/blog/2024/06/25/transactional-outbox-pattern-with-spring-boot/ Transactional Outbox pattern with Spring Boot
 - https://axual.com/implementing-outbox-pattern-with-apache-kafka-and-spring-modulith/ Implementing Outbox Pattern with Apache Kafka and Spring Modulith
 - https://www.baeldung.com/spring-modulith-event-externalization#2-resubmitting-events Event Externalization with Spring Modulith
 
