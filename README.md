@@ -1,5 +1,11 @@
 # Articles and videos to share
 
+## 20-07-2024
+
+- https://thorben-janssen.com/outbox-pattern-with-cdc-and-debezium/ Implementing the Outbox Pattern with CDC using Debezium
+- https://danieldietrich.dev/blog/2024/06/06/statement-on-vavrs-future/ Statement on Vavr's Future
+- https://youtu.be/u4wV0-31oI0 TUTO React Server Component de A à Z en 2024
+
 ## 11-07-2024
 
 - https://www.youtube.com/watch?v=Pae2D4XcEIg The Modern Monolith, with Spring Modulith by Cora Iberkleid @ Spring I/O 2024
