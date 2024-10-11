@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 11-10-2024
+
+- https://youtu.be/A_ImrhN9H6A Java 23 - Better Language, Better APIs, Better Runtime
+- https://www.naleid.com/2023/07/30/understanding-kafka-compaction.html Understanding Kafka Compaction
+
 ## 20-07-2024
 
 - https://thorben-janssen.com/outbox-pattern-with-cdc-and-debezium/ Implementing the Outbox Pattern with CDC using Debezium
