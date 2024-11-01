@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 01-11-2024
+
+- https://www.youtube.com/live/maJulQ4ABNY The Magical Group Coordination Protocol of Apache Kafka
+
 ## 11-10-2024
 
 - https://youtu.be/A_ImrhN9H6A Java 23 - Better Language, Better APIs, Better Runtime
