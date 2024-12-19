@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 19-12-2024
+
+- https://softwaremill.com/what-scala-has-to-offer-for-java-devs/ What Scala has to offer for Java devs
+
 ## 05-11-2024
 
 - https://runebook.dev/en/articles/spring_boot/application-properties/application-properties.integration.spring.kafka.streams.cleanup.on-startup Managing State Stores in Spring Kafka Streams: Alternatives to Cleanup on Startup
