@@ -2,6 +2,7 @@
 
 ## 19-12-2024
 
+- https://www.responsive.dev/blog/kafka-streams-2024-year-in-review Kafka Streams Wrapped: 2024 in review
 - https://softwaremill.com/what-scala-has-to-offer-for-java-devs/ What Scala has to offer for Java devs
 
 ## 05-11-2024
