@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 30-12-2024
+
+- https://www.responsive.dev/blog/monitoring-kafka-streams You Will Survive Monitoring Kafka Streams
+- https://youtu.be/OEnaf-bdL64 Haoyi Li - Better Scala Builds With The Mill Build Tool - Functional Scala 2024
+
 ## 19-12-2024
 
 - https://www.responsive.dev/blog/kafka-streams-2024-year-in-review Kafka Streams Wrapped: 2024 in review
