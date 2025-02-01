@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 01-02-2025
+
+- https://www.jvm-weekly.com/p/everything-you-might-have-missed-30c Everything you might have missed in Java in 2024 - JVM Weekly vol. 114
+- https://www.responsive.dev/blog/windows-and-time-kafka-streams-101 Kafka Streams 101: Windows & Time
+
 ## 30-12-2024
 
 - https://www.responsive.dev/blog/monitoring-kafka-streams You Will Survive Monitoring Kafka Streams
