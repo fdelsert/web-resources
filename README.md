@@ -1,5 +1,14 @@
 # Articles and videos to share
 
+## 20-02-2025
+
+- https://blogit.michelin.io/kstreamplify/ How to 'Kstreamplify' : your new way to develop Kafka Streams application
+- https://blogit.michelin.io/dkafka-streams/ Designing Kafka Streams Applications
+
+## 14-02-2025
+
+- https://www.responsive.dev/blog/topology-upgrades-kafka-streams-101 Kafka Streams 101: Topology Upgrades
+
 ## 01-02-2025
 
 - https://www.jvm-weekly.com/p/everything-you-might-have-missed-30c Everything you might have missed in Java in 2024 - JVM Weekly vol. 114
