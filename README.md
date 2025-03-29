@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 29-03-2025
+
+- https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html Evolving Scala
+
 ## 20-02-2025
 
 - https://blogit.michelin.io/kstreamplify/ How to 'Kstreamplify' : your new way to develop Kafka Streams application
