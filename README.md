@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 14-05-2025
+
+- https://pganalyze.com/blog/gin-index Understanding Postgres GIN Indexes: The Good and the Bad
+- https://youtu.be/K9vEDkq9GIw Double Dispatch in DDD: When Injecting Dependencies Makes Sense
+
 ## 29-03-2025
 
 - https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html Evolving Scala
