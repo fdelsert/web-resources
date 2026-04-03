@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 03-04-2026
+
+- https://www.freecodecamp.org/news/build-a-bank-ledger-in-go-with-postgresql-using-the-double-entry-accounting-principle/ How to Build a Bank Ledger in Golang with PostgreSQL using the Double-Entry Accounting Principle.
+
 ## 14-05-2025
 
 - https://pganalyze.com/blog/gin-index Understanding Postgres GIN Indexes: The Good and the Bad
