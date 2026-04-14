@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 14-04-2026
+
+- https://fuckingapproachableswiftconcurrency.com/fr/ Fucking Approachable Swift Concurrency
+
 ## 03-04-2026
 
 - https://www.freecodecamp.org/news/build-a-bank-ledger-in-go-with-postgresql-using-the-double-entry-accounting-principle/ How to Build a Bank Ledger in Golang with PostgreSQL using the Double-Entry Accounting Principle.
