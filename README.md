@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 24-04-2026
+
+- https://youtu.be/Tg3BN36v-wQ Reliable AI Agents Using Domain Modeling with Koog in Java
+
 ## 14-04-2026
 
 - https://fuckingapproachableswiftconcurrency.com/fr/ Fucking Approachable Swift Concurrency
