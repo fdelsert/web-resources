@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 15-07-2026
+
+- https://youtu.be/spNAUEgq_A8 The Future Is Domain-Specific Agents - Justin Schroeder, StandardAgents
+
 ## 24-04-2026
 
 - https://youtu.be/Tg3BN36v-wQ Reliable AI Agents Using Domain Modeling with Koog in Java
