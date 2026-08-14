@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 14-08-2026
+
+- https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Why Go is an Ideal Language for AI-Assisted Software Engineering
+
 ## 15-07-2026
 
 - https://youtu.be/spNAUEgq_A8 The Future Is Domain-Specific Agents - Justin Schroeder, StandardAgents
