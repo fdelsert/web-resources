@@ -1,5 +1,10 @@
 # Articles and videos to share
 
+## 29-08-2026
+
+- https://victoriametrics.com/blog/go-sync-map-hash-trie/ Understanding Go's sync.Map from API to Hash Trie
+- https://go.dev/blog/generic-methods Generic Methods
+
 ## 14-08-2026
 
 - https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/ Why Go is an Ideal Language for AI-Assisted Software Engineering
