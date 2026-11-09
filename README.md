@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 09-11-2026
+
+- https://youtu.be/6Au9_XNPAtw?si=nDJbbf3PrSb4Fis6 Java's Biggest Update in Decades
+
 ## 29-08-2026
 
 - https://victoriametrics.com/blog/go-sync-map-hash-trie/ Understanding Go's sync.Map from API to Hash Trie
