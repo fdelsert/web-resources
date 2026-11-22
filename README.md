@@ -1,5 +1,9 @@
 # Articles and videos to share
 
+## 22-11-2026
+
+- https://goose-docs.ai/blog/2026/09/16/agentic-state-machines/ Agentic State Machines
+
 ## 09-11-2026
 
 - https://youtu.be/6Au9_XNPAtw?si=nDJbbf3PrSb4Fis6 Java's Biggest Update in Decades
